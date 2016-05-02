@@ -23,5 +23,4 @@ RUN \
     rm -rf /var/lib/apt/lists/*
 
 
-# define default command
-CMD ["java"]
+USER joyvan
